@@ -1,1 +1,2 @@
 # Bank-marketing-prediction
+The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification  goal is to make a predictive model to predict if the customer will respond positively to the campaign or not. The target variable is “response”. 
